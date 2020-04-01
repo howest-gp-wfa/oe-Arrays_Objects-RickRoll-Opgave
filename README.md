@@ -9,6 +9,4 @@
 * Wanneer alle stukjes op hun plaats staan, is de puzzel compleet en wordt de song.mp3 afgespeeld
 #### Maak gebruik van arrays!
 
-<video width="320" height="240" controls>
-  <source src="img/demo.mp4" type="video/mp4">
-</video>
+<a href="https://github.com/howest-gp-wfa/oe-Arrays_Objects-RickRoll-Opgave/raw/master/img/demo.mp4">Demo filmpje</a>

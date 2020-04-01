@@ -9,4 +9,6 @@
 * Wanneer alle stukjes op hun plaats staan, is de puzzel compleet en wordt de song.mp3 afgespeeld
 #### Maak gebruik van arrays!
 
-![alt text](img/demo.mp4) "Logo Title Text 1")
+<video width="320" height="240" controls>
+  <source src="img/demo.mp4" type="video/mp4">
+</video>

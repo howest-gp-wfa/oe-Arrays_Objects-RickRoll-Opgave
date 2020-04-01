@@ -8,3 +8,5 @@
 * Met een volgende muisklik selecteren we het stukje waarmee we willen wisselen
 * Wanneer alle stukjes op hun plaats staan, is de puzzel compleet en wordt de song.mp3 afgespeeld
 #### Maak gebruik van arrays!
+
+![alt text](img/demo.mp4) "Logo Title Text 1")
